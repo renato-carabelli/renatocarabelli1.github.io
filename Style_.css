@@ -1,0 +1,83 @@
+*{
+background-color: rgb(162, 241, 159);
+
+}
+
+#uno{
+    width: 70%;
+    background-color: green;
+    border:5px black solid ;
+    border-radius: 20px;
+    padding: 10px;
+}
+section{
+    width: 75%;
+    height: 200px;
+    align-items: center;
+}
+
+#renafoto{
+    width: 200px;
+    border: 5px solid black;
+    border-radius: 20px;
+    float: right;
+    margin:0px 60px 0px 50px;
+   
+}
+
+a{
+    font-size: 20px;
+    color: green;
+}
+
+p{
+    padding: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif
+
+}
+
+
+.titulo{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    align-items:center ;
+    text-align: center;
+    margin: 30px;
+    
+}
+.Enlaces :hover{
+    color: rgb(0, 0, 0);
+}
+
+.aprendizaje{
+    font-size: 20px;
+    text-align: center;
+    border-collapse: collapse;
+    border-spacing: 30px;
+    margin: 5px 5px 30px 370px;
+}
+
+form :hover{
+    color: rgb(249, 255, 249);
+}
+tr:hover{
+    cursor: pointer;
+}
+th,td{
+    border: 5px black solid;
+    padding: 10px;}
+th{
+    background-color: rgb(42, 161, 42) ;
+    font-size: 30px;
+}
+form{
+    margin: 0px 0px 20px 250px;
+    width: 1000px;
+    border: 5px black solid;
+    background-color: rgb(42, 161, 42);
+}
+
+form p{
+    background-color:  rgb(42, 161, 42);
+}
